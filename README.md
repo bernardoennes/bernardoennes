@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Bernardo Ennes
 
-<!--
-**bernardoennes/bernardoennes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e desenvolvedor com foco em back-end  
+💻 Apaixonado por resolver problemas com código limpo, testável e bem documentado  
+🚀 Em constante evolução, estudando boas práticas de desenvolvimento, arquitetura e performance  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Áreas de Interesse
+
+- Desenvolvimento back-end com **Ruby** e **Java**
+- APIs RESTful e integração entre serviços
+- Automação de tarefas e scripts utilitários
+
+---
+
+### 🔧 Tecnologias & Ferramentas
+
+<div align="center">
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </div>
+</div>
+
+---
+
+### 🧠 Atualmente estudando
+
+- **Programação Orientada a Objetos** e **design patterns**  
+- **Performance e boas práticas em SQL**
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoennes&layout=compact&langs_count=6&theme=radical&card_width=450" />
+</div>
+
+---
+
+### 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardorbennesl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-ennes-7ab160343/)
+
+---
