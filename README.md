@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Bernardo Ennes
 
-🎓 Estudante e desenvolvedor com foco em back-end  
-💻 Apaixonado por resolver problemas com código limpo, testável e bem documentado  
-🚀 Em constante evolução, estudando boas práticas de desenvolvimento, arquitetura e performance  
+🎓 Estudante e desenvolvedor com interresse em back-end  
+💻 Focado em montar soluções simples para problemas complexos por meio da programação 
+🚀 Sempre em constante evolução, aprimorando meus conhecimentos e melhorando minhas hablidades
 
 ---
 
